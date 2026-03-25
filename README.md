@@ -7,7 +7,7 @@ Je suis à la recherche d'un stage de fin d'études du **[11 Mai]** au **[24 Jui
 
 ### 💻 Ce que je fais en ce moment
 - 🔭 Je travaille sur **[PHP : Sécurité et Fonctionnalités avancées - Mise En Production du projet The League]**
-- 🌱 J'apprends actuellement **[Techno ex: PHPUnit, user CRUD MVC...]**
+- 🌱 J'apprends actuellement **[PHPUnit, user CRUD MVC...]**
 - ⚡ Fait amusant : [Ne peut toujours pas me passer de café et de MCDO]
 
 #### 🌐 Front-end
